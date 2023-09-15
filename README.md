@@ -13,3 +13,10 @@ It's simple.
 * Create a `config.json` file. The path of the file does not matter.
 * Run the program with the first argument being the path to the `config.json` file you just made.
 * Yay!
+
+## What should the config.json file look like?
+```
+{
+ "Token": "Bot Token Here"
+}
+```
